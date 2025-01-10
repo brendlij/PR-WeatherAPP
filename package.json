@@ -1,0 +1,26 @@
+{
+  "name": "dhbw",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "weather.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendlij/dhbw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brendlij/dhbw/issues"
+  },
+  "homepage": "https://github.com/brendlij/dhbw#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
